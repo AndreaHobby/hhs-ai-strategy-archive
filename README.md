@@ -168,7 +168,7 @@ Organizations implementing healthcare AI systems can reference these frameworks 
 
 If referencing this archive in research:
 
-Hobby, A. (2025). *HHS AI Strategy & Policy Documents Archive (2023-2025)*. GitHub repository. https://github.com/AndreaHobby/saved-hhs-web-content
+Hobby, A. (2025). *HHS AI Strategy & Policy Documents Archive (2023-2025)*. GitHub repository. [https://github.com/AndreaHobby/hhs-ai-strategy-archive](https://github.com/AndreaHobby/hhs-ai-strategy-archive)
 
 For individual HHS documents, please cite the original HHS source.
 
