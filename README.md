@@ -119,9 +119,7 @@ My work at HRSA occurred at the intersection of these policy developments and op
 
 4. **No Official Endorsement:** This archive and my commentary do not represent the official position of HHS, HRSA, or any federal agency, past or present.
 
-5. **Post-Employment Compliance:** I left federal service in March 2025 and am not subject to ongoing federal employment restrictions. This archive is created in my personal capacity as a researcher and does not violate any post-employment rules.
-
-6. **Attribution:** All documents are properly attributed to their original HHS sources. I claim no authorship of federal policy documents, only participation in their development through the HHS AI Community of Practice.
+5. **Attribution:** All documents are properly attributed to their original HHS sources. I claim no authorship of federal policy documents, only participation in their development through the HHS AI Community of Practice.
 
 **For Current HHS AI Guidance:** Please visit official HHS agency websites:
 - HHS AI: https://www.hhs.gov/
@@ -156,13 +154,8 @@ Organizations implementing healthcare AI systems can reference these frameworks 
 ## Related Work
 
 **My Current Research & Consulting Focus:**
-- **Dissertation:** Algorithmic bias in clinical decision support systems and patient safety (Johns Hopkins Bloomberg School of Public Health)
-- **Consulting Services:** AI governance frameworks, algorithmic fairness evaluation, health equity analytics
-- **Writing:** [Health Innovation Newsletter](your-substack-link) - Healthcare AI governance and policy analysis
+-  Algorithmic bias and patient safety (Johns Hopkins Bloomberg School of Public Health)
 
-**Other GitHub Repositories:**
-- [Federal Health Equity Analytics Template](link) - Demonstrates health equity reporting standards
-- [Healthcare Data Visualization Portfolio](link) - Publication-ready analytics examples
 
 **Publications & Presentations:**
 - HHS AI Strategy contributions (2023-2025)
@@ -183,9 +176,8 @@ For individual HHS documents, please cite the original HHS source.
 
 ## Contact
 
-**Andrea Hobby, DrPH Candidate**  
+**Andrea Hobby, DrPH Student**  
 Johns Hopkins Bloomberg School of Public Health  
-Director of Data Science, Association for Diagnostics & Laboratory Medicine
 
 **Expertise:** Algorithmic bias in healthcare AI, health equity analytics, federal health policy, AI governance frameworks
 
@@ -193,9 +185,8 @@ Director of Data Science, Association for Diagnostics & Laboratory Medicine
 
 **Connect:**
 - GitHub: [@AndreaHobby](https://github.com/AndreaHobby)
-- Newsletter: [Health Innovation](your-substack-link)
-- LinkedIn: [Andrea Hobby](your-linkedin)
-- Email: [your-email]
+- LinkedIn: [Andrea Hobby](https://www.linkedin.com/in/andreahobby/)
+
 
 ---
 
